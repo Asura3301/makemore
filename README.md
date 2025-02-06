@@ -1,2 +1,5 @@
 # makemore
-Personal Projects | Reference Andrej Karpathy
+Personal Projects | Reference for Andrej Karpathy
+
+
+# Bigram character-level language model
